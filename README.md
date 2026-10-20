@@ -4,7 +4,7 @@
 
 This is a single-page responsive portfolio website created as part of a lab assignment by **Student Kevin**. The website showcases personal information, my coding journey, skills, projects, and contact details, complete with a CSS-only Dark/Light Mode toggle. It is built using pure **HTML5** and **CSS3** (zero JavaScript).
 
-- URL Link to website portfolio: [Click Here](https://github.com/KevinTechNow/Lab-Assignment-Responsive-Portfolio-Web/settings/pages)
+- URL Link to website portfolio: [Click Here](https://kevintechnow.github.io/Lab-Assignment-Responsive-Portfolio-Web/)
 - URL Link to website design: [Click Here](https://www.figma.com/design/0IN1KtECdkULgCpGGiqutP/Untitled?node-id=0-1&t=7ZJuvYiWEPNwOsOL-1)
 
 ## 🎯 Purpose
