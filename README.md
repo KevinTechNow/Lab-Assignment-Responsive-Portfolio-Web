@@ -4,8 +4,8 @@
 
 This is a single-page responsive portfolio website created as part of a lab assignment by **Student Kevin**. The website showcases personal information, my coding journey, skills, projects, and contact details, complete with a CSS-only Dark/Light Mode toggle. It is built using pure **HTML5** and **CSS3** (zero JavaScript).
 
-- URL Link to website portfolio: [Click Here](https://your-username.github.io/portfolio-website/)
-- URL Link to website design: [Click Here](https://www.figma.com/your-design-link-here)
+- URL Link to website portfolio: [Click Here](https://github.com/KevinTechNow/Lab-Assignment-Responsive-Portfolio-Web/settings/pages)
+- URL Link to website design: [Click Here](https://www.figma.com/design/IgOkknw6IVAjX6Dzths9tg/Untitled?m=auto&t=f4XumE2qpU3Urex6-6)
 
 ## 🎯 Purpose
 
@@ -52,7 +52,8 @@ The site is optimized for:
 2. In your code editor, open the terminal.
 3. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/portfolio-website.git](https://github.com/your-username/portfolio-website.git)
+   git clone [https://github.com/KevinTechNow/Lab-Assignment-Responsive-Portfolio-Web.git](https://github.com/KevinTechNow/Lab-Assignment-Responsive-Portfolio-Web.git)
+   ```
 
 ## 📂 Folder Structure
 
@@ -72,3 +73,5 @@ portfolio-website/
 - I using a Figma to generated the layout of this code portfolio
 - I personally wrote and customized the "About Me", "My Journey", skills list, and project descriptions to reflect my own Computer Science background.
 
+## 📸 Screenshots
+_Add screenshots of your website on different devices here and website design created in Figma or Canva._
