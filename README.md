@@ -55,6 +55,8 @@ The site is optimized for:
    git clone [https://github.com/your-username/portfolio-website.git](https://github.com/your-username/portfolio-website.git)
 
 ## 📂 Folder Structure
+
+```bash
 portfolio-website/
 │
 ├── images/
@@ -62,6 +64,7 @@ portfolio-website/
 ├── style.css
 ├── index.html
 └── README.md
+```
 
 ## 📄 Notes
 - I used **Gemini** to help me structure the HTML/CSS code, set up the CSS-only dark mode toggle, and assist with debugging.
